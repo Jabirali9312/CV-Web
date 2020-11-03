@@ -1,0 +1,73 @@
+body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+
+.Main-container{
+  margin: 0 ;
+  padding: 0;
+  background-color: #EAF6F6;
+}
+.Mid-container{
+  width: 60%;
+  padding-left: 20%;
+  padding-bottom: 50px;
+}
+
+.End-container{
+  background-color: #66BFBF;
+}
+
+.Design-Div{
+  text-align: left;
+  padding-top: 15px;
+}
+.Chille-Div{
+  text-align: left;
+  padding: 50px 0 60px 0;
+}
+
+.profile-img{
+  width: 10em;
+  height: 10em;
+  border-radius: 50%;
+}
+.Design-img{
+  width: 10em;
+  height: 10em;
+  border-radius: 50%;
+  float: left;
+  padding-right: 10px;
+}
+.Chille-img{
+  width: 10em;
+  height: 10em;
+  border-radius: 50%;
+  float: right;
+}
+.contact-button{
+  text-align: center;
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  border: 10px solid #66BFBF;
+  border-radius: 10px;
+}
+th{
+  padding: 0 15px;
+}
+.Link-tag{
+  color : #11999E;
+}
+.Link-tag:hover{
+  color: #EAF6F6;
+}
